@@ -17,4 +17,6 @@
 https://hrb213.github.io/RENEGADING-OF-WEAKEST/
 
 ## ソースコード
+以下のURLからソースコード一式ダウンロード可能です。
+
 https://drive.google.com/file/d/1aKAJzENPxrH4G-C8BR4R-VZTZcQNKwlw/view?usp=sharing
