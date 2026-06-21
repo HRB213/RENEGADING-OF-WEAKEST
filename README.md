@@ -11,6 +11,10 @@
 
 ・すべてのモンスターを撃破すれば、ステージクリアとなり、スタート画面に戻ります。
 
+## 紹介動画
+以下のURLから視聴可能です。
+https://github.com/HRB213/RENEGADING-OF-WEAKEST/releases
+
 ## プレイ
 以下のURLからプレイ可能です。
 
