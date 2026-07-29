@@ -21,7 +21,12 @@ https://github.com/HRB213/RENEGADING-OF-WEAKEST/releases
 
 https://hrb213.github.io/RENEGADING-OF-WEAKEST/
 
-## ソースコード
-以下のURLからソースコード一式ダウンロード可能です。
+## Unityプロジェクト
+以下のURLからUnityプロジェクト一式をダウンロード可能です。
 
 https://drive.google.com/file/d/1aKAJzENPxrH4G-C8BR4R-VZTZcQNKwlw/view?usp=sharing
+
+## ソースコード
+また、ソースコードを確認しやすいよう、`Assets/Program(C#スクリプト)`フォルダも別途添付しています。
+
+https://drive.google.com/file/d/1GqweRPvsoMJ2SdKnzl_S7aDgl6HeQg8r/view?usp=sharing
