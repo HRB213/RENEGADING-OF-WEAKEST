@@ -1,5 +1,6 @@
 ## 概要
 ![Title Screen](タイトル.png)
+・Unityで作成。
 
 ・プレイヤーは、攻撃不可。
 
@@ -21,12 +22,8 @@ https://github.com/HRB213/RENEGADING-OF-WEAKEST/releases
 
 https://hrb213.github.io/RENEGADING-OF-WEAKEST/
 
-## Unityプロジェクト
-以下のURLからUnityプロジェクト一式をダウンロード可能です。
+## 配布ファイル
 
-https://drive.google.com/file/d/1aKAJzENPxrH4G-C8BR4R-VZTZcQNKwlw/view?usp=sharing
+以下のURLから、Unityプロジェクト一式、`Assets/Scripts` 内のC#ソースコード、およびmacOS・Windows向けにビルドした実行ファイルをダウンロードできます。
 
-## ソースコード
-また、ソースコードを確認しやすいよう、`Assets/Program(C#スクリプト)`フォルダも別途添付しています。
-
-https://drive.google.com/file/d/1GqweRPvsoMJ2SdKnzl_S7aDgl6HeQg8r/view?usp=sharing
+https://drive.google.com/drive/folders/1d01fKKBnt2vxPWLvj3tiX3HWA2_oqdHZ?usp=sharing
